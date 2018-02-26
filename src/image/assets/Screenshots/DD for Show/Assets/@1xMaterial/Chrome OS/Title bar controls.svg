@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="113px" height="32px" viewBox="0 0 113 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>@1xMaterial/Chrome OS/Title bar controls</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Material/Chrome-OS/Title-bar-controls">
+            <rect id="bounds" x="0" y="0" width="113" height="32"></rect>
+            <polygon id="minimise" fill-opacity="0.899999976" fill="#FFFFFF" points="18 20 31.94 20 31.94 22 18 22"></polygon>
+            <path d="M52,11.999 L62,11.999 L62,20 L52,20 L52,11.999 Z M50,22 L64.001,22 L64.001,10 L50,10 L50,22 Z" id="maximise" fill-opacity="0.899999976" fill="#FFFFFF"></path>
+            <polyline id="close" fill-opacity="0.899999976" fill="#FFFFFF" points="93.586 10 89 14.586 84.414 10 83 11.414 87.586 16 83 20.586 84.414 22 89 17.414 93.586 22 95 20.586 90.414 16 95 11.414 93.586 10"></polyline>
+        </g>
+    </g>
+</svg>

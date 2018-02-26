@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="63px" height="63px" viewBox="0 0 63 63" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>@1xHazardousMaterialIcon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="63" height="63" rx="6"></rect>
+        <filter x="-9.5%" y="-6.3%" width="125.4%" height="125.4%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="2" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.25 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="HazardousMaterialIcon">
+            <g>
+                <g id="Rectangle">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill-opacity="0.1" fill="#000000" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <rect stroke="#426C90" stroke-width="1" x="0.5" y="0.5" width="62" height="62" rx="6"></rect>
+                </g>
+                <g id="Group-2" transform="translate(6.300000, 11.812500)" fill="#FFFFFF">
+                    <rect id="Rectangle-3" transform="translate(25.375391, 7.656641) rotate(45.000000) translate(-25.375391, -7.656641) " x="19.9613281" y="2.24257812" width="10.828125" height="10.828125"></rect>
+                    <rect id="Rectangle-3" transform="translate(16.516016, 16.516016) rotate(45.000000) translate(-16.516016, -16.516016) " x="11.1019531" y="11.1019531" width="10.828125" height="10.828125"></rect>
+                    <rect id="Rectangle-3" transform="translate(34.234766, 16.516016) rotate(45.000000) translate(-34.234766, -16.516016) " x="28.8207031" y="11.1019531" width="10.828125" height="10.828125"></rect>
+                    <rect id="Rectangle-3" transform="translate(25.375391, 25.375391) rotate(45.000000) translate(-25.375391, -25.375391) " x="19.9613281" y="19.9613281" width="10.828125" height="10.828125"></rect>
+                    <rect id="Rectangle-3" transform="translate(7.656641, 25.375391) rotate(45.000000) translate(-7.656641, -25.375391) " x="2.24257812" y="19.9613281" width="10.828125" height="10.828125"></rect>
+                    <rect id="Rectangle-3" transform="translate(43.094141, 25.375391) rotate(45.000000) translate(-43.094141, -25.375391) " x="37.6800781" y="19.9613281" width="10.828125" height="10.828125"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

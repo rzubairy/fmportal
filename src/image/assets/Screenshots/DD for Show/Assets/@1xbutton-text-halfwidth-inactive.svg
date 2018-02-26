@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="167px" height="36px" viewBox="0 0 167 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>@1xbutton-text-halfwidth-inactive</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.703294837">
+        <g id="button-text-halfwidth-inactive">
+            <g id="button">
+                <rect id="button-bg" x="0" y="0" width="167" height="36" rx="2"></rect>
+                <text id="REGISTER" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" letter-spacing="0.5" fill="#CCCCCC">
+                    <tspan x="51.1342773" y="24">REGISTER</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

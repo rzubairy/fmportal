@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>@1xCheckBox button not active</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="28" height="28" rx="4"></rect>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="CheckBox-button-not-active">
+            <g>
+                <g id="Stroke">
+                    <use fill-opacity="0.0399999991" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <rect stroke-opacity="0.2" stroke="#FFFFFF" stroke-width="0.5" x="0.25" y="0.25" width="27.5" height="27.5" rx="4"></rect>
+                </g>
+                <path d="M13.5622702,19.0005775 C13.3392702,19.0005775 13.1262702,18.9015775 12.9832702,18.7275775 L9.17027017,14.0995775 C8.90827017,13.7795775 8.95327017,13.3065775 9.27327017,13.0425775 C9.59227017,12.7805775 10.0652702,12.8255775 10.3292702,13.1455775 L13.4032702,16.8775775 L17.5772702,8.41857752 C17.7602702,8.04657752 18.2082702,7.89357752 18.5822702,8.07857752 C18.9532702,8.26157752 19.1052702,8.71057752 18.9222702,9.08257752 L14.2352702,18.5825775 C14.1222702,18.8105775 13.9012702,18.9665775 13.6482702,18.9955775 C13.6202702,18.9995775 13.5902702,19.0005775 13.5622702,19.0005775" id="Icon" fill="#FEFEFE" opacity="0.3"></path>
+            </g>
+        </g>
+    </g>
+</svg>

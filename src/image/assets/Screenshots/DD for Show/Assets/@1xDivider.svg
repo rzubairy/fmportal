@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="334px" height="4px" viewBox="0 0 334 4" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>@1xDivider</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="square">
+        <g id="Divider">
+            <g id="Line">
+                <path d="M0.5,0.5 L333.5,0.5" stroke-opacity="0.9" stroke="#0F3544" opacity="0.703917572"></path>
+                <path d="M0.5,1.5 L333.5,1.5" stroke-opacity="0.8" stroke="#426C90" opacity="0.696841033"></path>
+            </g>
+        </g>
+    </g>
+</svg>

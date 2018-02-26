@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="330px" height="63px" viewBox="0 0 330 63" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>@1xtext input field Mat LightBG</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="text-input-field-Mat-LightBG">
+            <path d="M1,56 L329,56" id="line" stroke="#58595B" stroke-width="2" opacity="0.748641304"></path>
+            <text id="Hint-text" font-family="Roboto-Regular, Roboto" font-size="16" font-weight="normal" line-spacing="18" fill="#58595B">
+                <tspan x="5" y="46">Login</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

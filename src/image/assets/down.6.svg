@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="12px" viewBox="0 0 24 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>down.6</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="cards/Driver_Location_Card_lite_off" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-285.000000, -5.000000)">
+        <g id="down.6" transform="translate(285.000000, 5.000000)" fill="#788195" fill-rule="nonzero">
+            <path d="M12,12 C11.872,12 11.744,11.951 11.646,11.854 L0.646,0.854 C0.451,0.659 0.451,0.342 0.646,0.147 C0.841,-0.048 1.158,-0.048 1.353,0.147 L12,10.793 L22.646,0.146 C22.841,-0.049 23.158,-0.049 23.353,0.146 C23.548,0.341 23.548,0.658 23.353,0.853 L12.353,11.853 C12.256,11.951 12.128,12 12,12 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

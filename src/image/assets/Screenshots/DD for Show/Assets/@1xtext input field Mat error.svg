@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="330px" height="90px" viewBox="0 0 330 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>@1xtext input field Mat error</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="text-input-field-Mat-error">
+            <g id="text-field">
+                <path d="M0.998484848,45.5 L329.001515,45.5" id="line" stroke="#D0021B" stroke-width="2"></path>
+                <text id="Hint-text" font-family="Roboto-Regular, Roboto" font-size="16" font-weight="normal" line-spacing="18" fill="#D1D1D1">
+                    <tspan x="5" y="37">joedriver@soleratruck.com</tspan>
+                </text>
+                <text id="Hint-text" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal" line-spacing="14" fill="#D0021B">
+                    <tspan x="1" y="11">Login</tspan>
+                </text>
+                <text id="Hint-text" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal" line-spacing="14" fill="#D0021B">
+                    <tspan x="1" y="65">Error Text</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

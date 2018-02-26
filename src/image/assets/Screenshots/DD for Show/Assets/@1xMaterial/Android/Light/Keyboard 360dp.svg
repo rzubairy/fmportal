@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="360px" height="272px" viewBox="0 0 360 272" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>@1xMaterial/Android/Light/Keyboard 360dp</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="360" height="272"></rect>
+        <filter x="-1.7%" y="-1.5%" width="103.3%" height="104.4%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.24 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-4" x="0" y="0" width="360" height="48"></rect>
+        <filter x="-0.1%" y="-0.5%" width="100.1%" height="101.0%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="0.5" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.800000012 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <rect id="path-6" x="0" y="0" width="360" height="224"></rect>
+        <filter x="-1.7%" y="-1.8%" width="103.3%" height="105.4%" filterUnits="objectBoundingBox" id="filter-7">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.24 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-1.2%" y="-1.0%" width="102.4%" height="103.8%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="0.5" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.8 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-9">
+            <stop stop-color="#000000" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.02" offset="80%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.04" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-10" cx="18" cy="18" r="18"></circle>
+        <filter x="-17.5%" y="-11.9%" width="135.0%" height="135.0%" filterUnits="objectBoundingBox" id="filter-11">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter2" in2="SourceAlpha" operator="out" result="shadowBlurOuter2"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.24 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMorphology radius="0.15" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter3"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter3" result="shadowOffsetOuter3"></feOffset>
+            <feComposite in="shadowOffsetOuter3" in2="SourceAlpha" operator="out" result="shadowOffsetOuter3"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.02 0" type="matrix" in="shadowOffsetOuter3" result="shadowMatrixOuter3"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter3"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Material/Android/Light/Keyboard-360dp">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="mask" fill-opacity="1" fill="black">
+                <use filter="url(#filter-3)" xlink:href="#path-1"></use>
+            </g>
+            <g id="suggestions" mask="url(#mask-2)">
+                <g id="bg">
+                    <use fill="#747474" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                </g>
+            </g>
+            <g id="main-keyboard" mask="url(#mask-2)">
+                <g transform="translate(0.000000, 48.000000)">
+                    <g id="bg" fill="none">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-7)" xlink:href="#path-6"></use>
+                        <use fill="#ECEFF0" fill-rule="evenodd" xlink:href="#path-6"></use>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-6"></use>
+                    </g>
+                    <path d="M257,205 C257,206.1 256.1,207 255,207 L109,207 C107.9,207 107,206.1 107,205 L107,185 C107,183.9 107.9,183 109,183 L255,183 C256.1,183 257,183.9 257,185 L257,205 L257,205 Z" id="space" fill="#37474F" fill-rule="evenodd" opacity="0.15"></path>
+                    <text id="," fill="none" opacity="0.8" font-family="Roboto-Medium, Roboto" font-size="22" font-weight="400">
+                        <tspan x="73.5830078" y="201" fill="#37474F">,</tspan>
+                    </text>
+                    <text id="?123" fill="none" opacity="0.8" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" letter-spacing="0.400000006">
+                        <tspan x="17.5601562" y="201" fill="#37474F">?12</tspan>
+                        <tspan x="41.4828125" y="201" fill="#37474F">3</tspan>
+                    </text>
+                    <text id="." fill="none" opacity="0.8" font-family="Roboto-Medium, Roboto" font-size="22" font-weight="400">
+                        <tspan x="284.927734" y="201" fill="#37474F">.</tspan>
+                    </text>
+                    <path d="M28,152 L42,152 L42,154 L28,154 L28,152 Z M39,143 L39,148 L31,148 L31,143 L26,143 L35,134 L44,143 L39,143 Z" id="caps" fill="#37474F" fill-rule="evenodd" opacity="0.6"></path>
+                    <path d="M340,135 L325.1,135 C324.4,135 323.8,135.3 323.4,135.9 L318,144 L323.4,152.1 C323.8,152.6 324.4,153 325.1,153 L340,153 C341.1,153 342,152.1 342,151 L342,137 C342,135.9 341.1,135 340,135 L340,135 Z M337,147.6 L335.6,149 L332,145.4 L328.4,149 L327,147.6 L330.6,144 L327,140.4 L328.4,139 L332,142.6 L335.6,139 L337,140.4 L333.4,144 L337,147.6 L337,147.6 Z" id="delete" fill="#37474F" fill-rule="evenodd" opacity="0.6"></path>
+                    <g id="return" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(313.000000, 176.000000)">
+                        <g id="button-bg">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-11)" xlink:href="#path-10"></use>
+                            <use fill="#4CB5AB" fill-rule="evenodd" xlink:href="#path-10"></use>
+                            <circle stroke="#4CB5AB" stroke-width="0.3" cx="18" cy="18" r="17.85"></circle>
+                            <circle stroke="url(#linearGradient-9)" stroke-width="0.3" cx="18" cy="18" r="17.85"></circle>
+                            <circle stroke-opacity="0.12" stroke="#009688" stroke-width="0.3" cx="18" cy="18" r="17.85"></circle>
+                        </g>
+                        <path d="M25.1,13.8 L27.1,13.8 L27.1,19.8 L11.9,19.8 L15.5,23.4 L14.1,24.8 L8.1,18.8 L14.1,12.8 L15.5,14.2 L11.9,17.8 L25.1,17.8 L25.1,13.8 Z" id="return-icon" fill="#FFFFFF"></path>
+                    </g>
+                    <g id="letters" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(10.000000, 27.000000)" font-size="22" font-family="Roboto-Regular, Roboto" font-weight="normal">
+                        <text id="a" fill="#37474F">
+                            <tspan x="26.0166016" y="71">a</tspan>
+                        </text>
+                        <text id="s" fill="#37474F">
+                            <tspan x="61.328125" y="71">s</tspan>
+                        </text>
+                        <text id="d" fill="#37474F">
+                            <tspan x="95.7963867" y="71">d</tspan>
+                        </text>
+                        <text id="f" fill="#37474F">
+                            <tspan x="133.181152" y="71">f</tspan>
+                        </text>
+                        <text id="g" fill="#37474F">
+                            <tspan x="165.828613" y="71">g</tspan>
+                        </text>
+                        <text id="h" fill="#37474F">
+                            <tspan x="200.941406" y="71">h</tspan>
+                        </text>
+                        <text id="j" fill="#37474F">
+                            <tspan x="239.373535" y="71">j</tspan>
+                        </text>
+                        <text id="k" fill="#37474F">
+                            <tspan x="271.424805" y="71">k</tspan>
+                        </text>
+                        <text id="l" fill="#37474F">
+                            <tspan x="309.330566" y="71">l</tspan>
+                        </text>
+                        <text id="z" fill="#37474F">
+                            <tspan x="61.5483398" y="123">z</tspan>
+                        </text>
+                        <text id="x" fill="#37474F">
+                            <tspan x="96.5483398" y="123">x</tspan>
+                        </text>
+                        <text id="c" fill="#37474F">
+                            <tspan x="131.242188" y="123">c</tspan>
+                        </text>
+                        <text id="v" fill="#37474F">
+                            <tspan x="166.671875" y="123">v</tspan>
+                        </text>
+                        <text id="b" fill="#37474F">
+                            <tspan x="200.828613" y="123">b</tspan>
+                        </text>
+                        <text id="n" fill="#37474F">
+                            <tspan x="235.930664" y="123">n</tspan>
+                        </text>
+                        <text id="m" fill="#37474F">
+                            <tspan x="267.358887" y="123">m</tspan>
+                        </text>
+                        <text id="q" fill="#37474F">
+                            <tspan x="8.74804688" y="20">q</tspan>
+                        </text>
+                        <text id="w" fill="#37474F">
+                            <tspan x="41.7338867" y="20">w</tspan>
+                        </text>
+                        <text id="e" fill="#37474F">
+                            <tspan x="79.1723633" y="20">e</tspan>
+                        </text>
+                        <text id="r" fill="#37474F">
+                            <tspan x="116.277832" y="20">r</tspan>
+                        </text>
+                        <text id="t" fill="#37474F">
+                            <tspan x="151.406738" y="20">t</tspan>
+                        </text>
+                        <text id="y" fill="#37474F">
+                            <tspan x="184.79541" y="20">y</tspan>
+                        </text>
+                        <text id="u" fill="#37474F">
+                            <tspan x="218.936035" y="20">u</tspan>
+                        </text>
+                        <text id="i" fill="#37474F">
+                            <tspan x="257.330566" y="20">i</tspan>
+                        </text>
+                        <text id="o" fill="#37474F">
+                            <tspan x="288.726562" y="20">o</tspan>
+                        </text>
+                        <text id="p" fill="#37474F">
+                            <tspan x="323.828613" y="20">p</tspan>
+                        </text>
+                    </g>
+                    <g id="numbers" opacity="0.8" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(32.000000, 20.000000)" font-size="10" font-family="Roboto-Medium, Roboto" font-weight="400">
+                        <text id="1" fill="#455A64">
+                            <tspan x="0" y="9">1</tspan>
+                        </text>
+                        <text id="2" fill="#455A64">
+                            <tspan x="33" y="9">2</tspan>
+                        </text>
+                        <text id="3" fill="#455A64">
+                            <tspan x="68" y="9">3</tspan>
+                        </text>
+                        <text id="4" fill="#455A64">
+                            <tspan x="104" y="9">4</tspan>
+                        </text>
+                        <text id="5" fill="#455A64">
+                            <tspan x="138" y="9">5</tspan>
+                        </text>
+                        <text id="6" fill="#455A64">
+                            <tspan x="174" y="9">6</tspan>
+                        </text>
+                        <text id="7" fill="#455A64">
+                            <tspan x="208" y="9">7</tspan>
+                        </text>
+                        <text id="8" fill="#455A64">
+                            <tspan x="243" y="9">8</tspan>
+                        </text>
+                        <text id="9" fill="#455A64">
+                            <tspan x="278" y="9">9</tspan>
+                        </text>
+                        <text id="0" fill="#455A64">
+                            <tspan x="313" y="9">0</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="327px" height="48px" viewBox="0 0 327 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>@1xinput_field/error</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="input_field/error">
+            <g>
+                <g id="ui/input_field" fill="#000000" fill-opacity="0.354081748">
+                    <rect id="input_field" x="0" y="0" width="327" height="48" rx="4"></rect>
+                </g>
+                <text id="Error-Text-Here" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal" fill="#F80058">
+                    <tspan x="11" y="19">Error Text Here</tspan>
+                </text>
+                <text id="Input-Text-Here" font-family="Roboto-Regular, Roboto" font-size="15" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="12" y="36">Input Text Here</tspan>
+                </text>
+                <path d="M114.75,23.4980942 L114.75,37.5022317" id="Line" stroke="#1F83FF" stroke-width="1.5" stroke-linecap="square"></path>
+                <g id="icon16/btn_input_field_clear" transform="translate(297.000000, 15.000000)" fill="#FFFFFF" opacity="0.5">
+                    <path d="M10.7053913,5.29565217 C10.5693913,5.15965217 10.3495652,5.15965217 10.2135652,5.29565217 L8,7.50921739 L5.78643478,5.29565217 C5.65078261,5.15965217 5.43026087,5.15965217 5.2946087,5.29565217 C5.15895652,5.43165217 5.15895652,5.65147826 5.2946087,5.78817391 L7.50817391,8.0013913 L5.2946087,10.2149565 C5.15895652,10.3506087 5.15895652,10.5707826 5.2946087,10.7067826 C5.43026087,10.8424348 5.65078261,10.8424348 5.78643478,10.7067826 L8,8.49321739 L10.2135652,10.7067826 C10.3495652,10.8424348 10.5693913,10.8424348 10.7053913,10.7067826 C10.8413913,10.5707826 10.8413913,10.3506087 10.7053913,10.2149565 L8.49217391,8.0013913 L10.7053913,5.78817391 C10.8413913,5.65147826 10.8413913,5.43165217 10.7053913,5.29565217 M8,15.3029565 C3.9666087,15.3029565 0.697391304,12.034087 0.697391304,8 C0.697391304,3.96695652 3.9666087,0.697043478 8,0.697043478 C12.0330435,0.697043478 15.3026087,3.96695652 15.3026087,8 C15.3026087,12.034087 12.0330435,15.3029565 8,15.3029565 M8,0 C3.58191304,0 0,3.58156522 0,8 C0,12.4187826 3.58191304,16 8,16 C12.4184348,16 16,12.4187826 16,8 C16,3.58156522 12.4184348,0 8,0" id="btn_input_field_clear"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

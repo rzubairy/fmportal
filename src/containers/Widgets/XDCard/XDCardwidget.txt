@@ -1,0 +1,33 @@
+import React, { Component } from 'react';
+import { Row, Col } from 'antd';
+import basicStyle from '../../config/basicStyle';
+
+import XDCardWidget from './XDCard/XDCard-widget';
+
+
+
+import driverpic from '../../image/assets/arnieadams.jpg';
+import driverstatusicon from '../../image/assets/Driving.png';
+import fueliconsrc from '../../image/assets/fuel_pump2.png';
+import speediconsrc from '../../image/assets/speedometer.png';
+import locationiconsrc from '../../image/assets/locationicon.svg';
+
+
+
+    <XDCardWidget
+        style={{ height: '170px' }}
+        src={driverpic}
+        alt="Arnie"
+        statusalt="status"
+        fueliconsrc={fueliconsrc}
+        speediconsrc={speediconsrc}
+        statusiconsrc={driverstatusicon}
+        locationiconsrc={locationiconsrc}
+        // name={<IntlMessages id="widget.cardwidget.name" />}
+        name="Arnie Adams"
+        title={<IntlMessages id="widget.cardwidget.title" />}
+        description={
+          <IntlMessages id="widget.cardwidget.description" />
+        }
+      >
+      </XDCardWidget>

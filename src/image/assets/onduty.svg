@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>onduty</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="cards/Driver_Location_Card_lite_on" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-10.000000, 0.000000)">
+        <g id="Group-2" transform="translate(10.000000, 0.000000)">
+            <g id="onduty">
+                <circle id="Oval" fill="#3DBD7D" cx="16" cy="16" r="16"></circle>
+                <text id="ON" font-family="Roboto-Medium, Roboto" font-size="18" font-weight="400" line-spacing="18" fill="#FFFFFF">
+                    <tspan x="0" y="24">ON</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

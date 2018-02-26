@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="132px" height="206px" viewBox="0 0 132 206" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>@1xCircleNavigation</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M26,52 C40.3594035,52 52,40.3594035 52,26 C52,11.6405965 40.3594035,0 26,0 C11.6405965,0 0,11.6405965 0,26 C0,40.3594035 11.6405965,52 26,52 Z" id="path-1"></path>
+        <filter x="-18.3%" y="-10.6%" width="136.5%" height="136.5%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-10.6%" y="-2.9%" width="121.2%" height="121.2%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.13 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="CircleNavigation">
+            <g id="Nav-Button">
+                <g transform="translate(62.000000, 106.000000)">
+                    <g id="Button">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#0B78E3" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-1"></use>
+                    </g>
+                    <path d="M27.5,26 L27.5,18.4947712 C27.5,17.9509254 27.0522847,17.5 26.5,17.5 C25.9438648,17.5 25.5,17.9453742 25.5,18.4947712 L25.5,26 L17.9947712,26 C17.4509254,26 17,26.4477153 17,27 C17,27.5561352 17.4453742,28 17.9947712,28 L25.5,28 L25.5,35.5052288 C25.5,36.0490746 25.9477153,36.5 26.5,36.5 C27.0561352,36.5 27.5,36.0546258 27.5,35.5052288 L27.5,28 L35.0052288,28 C35.5490746,28 36,27.5522847 36,27 C36,26.4438648 35.5546258,26 35.0052288,26 L27.5,26 Z" id="Icon" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
